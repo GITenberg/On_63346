@@ -1,0 +1,36 @@
+_repo: On_63346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2020-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: On Achmet Boulee Bey -- On an educational reform -- On kind hearts
+  being more than coronets -- On mumbo-jumbo -- On footnotes -- A few kind words to
+  Mammon -- On Treves -- On the cathedral of Seville and "The misanthrope" -- On the
+  "Bucolics" of Virgil, a café in Paris, the length of essays, Phœbus, Bacchus, a
+  wanton maid, and other matters -- On titles -- On bad verse -- The united poets
+  -- On convincing people -- On controversy -- On inaccuracy -- On technical words
+  -- On the accursed climate -- On accent -- On truth and the Admiralty -- A short
+  adventure -- On sailing and the seas -- Off Exmouth -- On a piece of rope -- "Ultima
+  ratio" -- On a tag provider -- On "and" -- The cad's encyclopædia -- On the melting
+  of the ice -- On the hatred of numbers -- On the last infirmity.
+title: 'On'
+url: http://www.gutenberg.org/ebooks/63346
